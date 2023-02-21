@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+react demo，就是测试下react的各种功能，以及各种表单或者UI组件，想学习一个新东西的最好方法，就是动手去实践，”把手弄脏“
 
 ## Available Scripts
 
