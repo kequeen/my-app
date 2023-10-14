@@ -1,7 +1,15 @@
-# Getting Started with Create React App
+# React学习
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 react demo，就是测试下react的各种功能，以及各种表单或者UI组件，想学习一个新东西的最好方法，就是动手去实践，”把手弄脏“
+
+最近重新理解了学习之道，最快的学习方式，是我们去用这个技术，去做我们想做的事情，或者是说我们想做的事情，刚好能够用到这个技术
+
+## 关于自己对React的理解
+目前个人理解，不一定准确。前端的技术其实核心分为2类，一类是css等样式相关，这种不是react所关心的；一种是js。
+页面如何渲染，正常是浏览器加载完成html内容后，css和js执行，其实整个行为很多时候不可预测，因为可能网络原因，js加载的前后顺序不一致，导致会出现问题，并且模块的复用，一直也没有一个规范。
+react相对于js，有点像spring boot 对于java，提供了很多开箱即用的功能。
+我很喜欢react的哲学，一切尽在js，连页面的渲染顺序，也都是由js所决定。
 
 ## Available Scripts
 
